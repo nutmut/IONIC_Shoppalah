@@ -1,0 +1,84 @@
+{
+  "category" : {
+    "cat01" : "Man",
+    "cat02" : "Woman"
+  },
+  "featured" : {
+    "item1" : "slide_1",
+    "item2" : "slide_2"
+  },
+  "menu" : {
+    "item1" : {
+      "available" : true,
+      "category" : "cat01",
+      "description" : "item1 description",
+      "image" : "men1",
+      "name" : "Topstitched Flap",
+      "price" : 3500,
+      "stock" : 100
+    },
+    "item2" : {
+      "available" : true,
+      "category" : "cat01",
+      "description" : "item2 description",
+      "image" : "men2",
+      "name" : "David Jones",
+      "price" : 1200,
+      "stock" : 100
+    },
+    "item3" : {
+      "available" : true,
+      "category" : "cat02",
+      "description" : "item3 description",
+      "image" : "men3",
+      "name" : "Black Piper",
+      "price" : 4000,
+      "stock" : 100
+    },
+    "item4" : {
+      "available" : true,
+      "category" : "cat02",
+      "description" : "item4 description",
+      "image" : "men4",
+      "name" : "Jacob",
+      "price" : 2000,
+      "stock" : 100
+    },
+    "item5" : {
+      "available" : true,
+      "category" : "cat01",
+      "description" : "item5 description",
+      "image" : "w1",
+      "name" : "Lyn",
+      "price" : 3000,
+      "stock" : 100
+    },
+    "item6" : {
+      "available" : true,
+      "category" : "cat02",
+      "description" : "item6 description",
+      "image" : "w2",
+      "name" : "Coach",
+      "price" : 3250,
+      "stock" : 100
+    },
+    "item7" : {
+      "available" : true,
+      "category" : "cat01",
+      "description" : "item7 description",
+      "image" : "w3",
+      "name" : "Coach Purple",
+      "price" : 5000,
+      "stock" : 100
+    },
+    "item8" : {
+      "available" : true,
+      "category" : "cat02",
+      "description" : "item8 description",
+      "image" : "w4",
+      "name" : "Beibaobao",
+      "price" : 1260,
+      "stock" : 100
+    }
+  }
+}
